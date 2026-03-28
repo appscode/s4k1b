@@ -42,7 +42,7 @@
     "@rollup/plugin-commonjs": "^11.0.1",
     "@rollup/plugin-replace": "^2.2.1",
     "@vue/cli-plugin-babel": "^4.1.0",
-    "@vue/cli-service": "^4.1.0",
+    "@vue/cli-service": "^5.0.9",
     "@vue/eslint-config-prettier": "^5.0.0",
     "babel-eslint": "^10.0.3",
     "cross-env": "^6.0.3",
